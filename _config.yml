@@ -3,3 +3,8 @@ plugins:
   - jekyll-include-cache
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+title                    : "Mad River Science"
+name                     : "Mad River Science, Inc."
+
+include: ["_pages"]

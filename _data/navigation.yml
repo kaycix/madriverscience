@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "Products and Services"
+    url: /products/
+  - title: "Performance"
+    url: /performance/
+  - title: "The Science Behind It"
+    url: /science/
+  - title: "Contact"
+    url: /contact/
