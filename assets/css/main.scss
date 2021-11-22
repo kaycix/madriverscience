@@ -45,3 +45,11 @@ html body .site-title {
 html .masthead {
 	background-color:#FFF;
 }
+
+html .masthead .site-title-wrapper {
+	min-width: 300px;
+}
+
+html .masthead .visible-links {
+	overflow: visible;
+}
