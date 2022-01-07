@@ -8,5 +8,7 @@ main:
     url: /performance/
   - title: "The Science Behind It"
     url: /science/
+  - title: "Ingredients"
+    url: /ingredients/
   - title: "Contact"
     url: /contact/
