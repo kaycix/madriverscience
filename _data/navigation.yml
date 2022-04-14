@@ -10,6 +10,8 @@ main:
     url: /science/
   - title: "Ingredients"
     url: /ingredients/
+  - title: "Color Samples"
+    url: /colors/
   - title: "FAQ"
     url: /faq/
   - title: "Contact"
