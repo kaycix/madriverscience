@@ -10,5 +10,7 @@ main:
     url: /science/
   - title: "Ingredients"
     url: /ingredients/
+  - title: "FAQ"
+    url: /faq/
   - title: "Contact"
     url: /contact/
