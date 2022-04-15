@@ -22,3 +22,72 @@ title: ""
 </li>
 </ul>
 
+<h6>Safety Data Sheets</h6>
+<table>
+<thead>
+    <tr>
+        <td>
+            Product Name
+        </td>
+        <td>
+            Manufacturer
+        </td>
+        <td>
+            Revision Date
+        </td>
+    </tr>
+</thead>
+<tr>
+    <td>
+        <a target="_blank" href="{{ '/assets/files/sds_topcoat.pdf' | relative_url }}">
+        Topcoat
+        </a>
+    </td>
+    <td>
+        Mad River Science
+    </td>
+    <td>
+        9/9/2021
+    </td>
+</tr>
+<tr>
+    <td>
+        <a target="_blank" href="{{ '/assets/files/sds_remover_gel.pdf' | relative_url }}">
+        Remover Gel (ethanol based)
+        </a>
+    </td>
+    <td>
+        Mad River Science
+    </td>
+    <td>
+        9/9/2021
+    </td>
+</tr>
+<tr>
+    <td>
+        <a target="_blank" href="{{ '/assets/files/sds_primer.pdf' | relative_url }}">
+        Primer
+        </a>
+    </td>
+    <td>
+        Mad River Science
+    </td>
+    <td>
+        9/9/2021
+    </td>
+</tr>
+<tr>
+    <td>
+            <a target="_blank" href="{{ '/assets/files/sds_colorcoat.pdf' | relative_url }}">
+            Water-based Nail Polish
+            </a>
+    </td>
+    <td>
+        Mad River Science
+    </td>
+    <td>
+        9/9/2021
+    </td>
+</tr>
+</table>
+

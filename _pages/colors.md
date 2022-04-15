@@ -7,4 +7,5 @@ title: ""
 
 <img src="{{'/assets/images/color_sheet_gonatural_1.jpg' | relative_url}}" />
 <img src="{{'/assets/images/color_sheet_gonatural_2.jpg' | relative_url}}" />
+<img src="{{'/assets/images/color_sheet_ev.jpg' | relative_url}}" />
 
